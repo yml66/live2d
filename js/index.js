@@ -14,7 +14,7 @@ function browserRedirect() {
         document.write('<script type="text/javascript"> var home_Path = "https://menglei.xyz/" </script>');
         document.write('<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/yml66/live2d/js/live2d.js"></script>');
         document.write('<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/yml66/live2d/js/message.js"></script>');
-        document.write('<script type="text/javascript"> loadlive2d("live2d", "https://cdn.jsdelivr.net/gh/yml66/live2d/model/xiaoban/model.json");</script>');
+        document.write('<script type="text/javascript"> loadlive2d("live2d", "https://cdn.jsdelivr.net/gh/yml66/live2d/model/xxb/model.json");</script>');
     }
 }
 browserRedirect();
